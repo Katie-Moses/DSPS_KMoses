@@ -1,4 +1,4 @@
 # DSPS_KMoses
 Repo for DSPS, PHYS 661
 
-With this course, I hope to get better at using code to analyze data and using those results to further knowledge of the world. This will prove useful with neutrino experiment data.
+With this course, I hope to get better at using code to analyze data and using those results to further knowledge of the world. This will prove useful with neutrino experiment data, along with improving my overall skills within physics and using data analysis for science. I desire to learn most about using neural networks to analyze data, if that is something that will be covered within the course. I think my overall problem solving skill set will be useful, as one of my biggest strengths is switching my view of a problem from one rooted within raw physics to engineering or pure mathematics and vice versa, giving more framework about the problem at hand and how best to approach it. For example, with data analysis, it allows me to understand why we look for one thing in physics, but perhaps another when engineers might need it.
