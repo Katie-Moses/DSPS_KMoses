@@ -17,3 +17,8 @@ Good Plot (https://arxiv.org/pdf/2010.12279):
 <img width="1148" height="631" alt="image" src="https://github.com/user-attachments/assets/aa483879-9c65-439a-a29f-66eb9b005a43" />
 
 While I initially said this was a bad plot, I realized that was more because it was complicated to understand and first and not because its actually bad. What it does right is have good color contrast between sections, indicating what experiment the data is from, which is also mentioned in the legend. The colors are also colorblind friendly, which is great for accessibility. The graph includes error bars in with the data, which further improve information gained from each the data. The biggest change I would add would maybe be the year of the different experiments, to show how the data has moved over time, but that would only be needed for people who do not already understand the data (which is a little tricky to explain).
+
+
+Reference Color Palette from Notebook Graph:
+
+<img width="738" height="962" alt="image" src="https://github.com/user-attachments/assets/30a73ed8-0be7-41b6-8043-1d4e092a6a05" />
