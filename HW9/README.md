@@ -1,5 +1,11 @@
 I worked alone in this assignment as were the instructions.
 
+Notebook Plot (from HW 5/6):
+
+<img width="1343" height="1251" alt="image" src="https://github.com/user-attachments/assets/cb81c8db-ab68-43e9-bdd9-294d9dcc54cd" />
+
+Updated the log time plot from the GRB MCMC notebook, which is the second plot in the notebook. I added gridlines to make the data a little easier to visualize the values of. I changed the colors to a color-blind friendly palette, as there used to be green and red plotted on top of one another especially which was bad. I also added a title and scaled down the size of the data points, as they were quite large and overcrowded the space near the top left. I tried to fix the clumping of the data points as well, but had no such luck.
+
 Bad Plot (https://arxiv.org/pdf/physics/0601001):
 
 <img width="565" height="387" alt="image" src="https://github.com/user-attachments/assets/abf463b8-d740-4e6d-92d0-73e8bd7b48f7" />
