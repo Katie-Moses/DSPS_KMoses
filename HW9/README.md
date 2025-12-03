@@ -11,7 +11,7 @@ Notebook Plot (from HW 5/6):
 
 Updated the log time plot from the GRB MCMC notebook, which is the second plot in the notebook. I added gridlines to make the data a little easier to visualize the values of. I changed the colors to a color-blind friendly palette, as there used to be green and red plotted on top of one another especially which was bad. I also added a title and scaled down the size of the data points, as they were quite large and overcrowded the space near the top left. I tried to fix the clumping of the data points as well, but had no such luck.
 
-Note: Title should state GRB, not supernova
+Note: Title should state GRB afterglow, not supernova
 
 Bad Plot (https://arxiv.org/pdf/physics/0601001):
 
